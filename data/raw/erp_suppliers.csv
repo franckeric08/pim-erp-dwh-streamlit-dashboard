@@ -1,0 +1,51 @@
+supplier_id,supplier_name,country,lead_time_days
+1,Delorme Hamel S.A.R.L.,FR,8
+2,Bourgeois,FR,16
+3,Lemaire,FR,12
+4,Louis,FR,9
+5,Gilles,FR,8
+6,Joubert Pasquier SA,FR,20
+7,Pichon Pruvost et Fils,FR,12
+8,Berthelot Rodrigues S.A.,FR,12
+9,Clément S.A.,FR,5
+10,Hamon,FR,9
+11,Normand,FR,4
+12,Launay Guillou et Fils,FR,3
+13,Robin,FR,13
+14,Lejeune,FR,7
+15,Paul,FR,3
+16,Andre,FR,2
+17,Lucas SA,FR,13
+18,Schneider Fournier S.A.,FR,13
+19,Dufour S.A.S.,FR,18
+20,Raynaud Carpentier SA,FR,11
+21,Paris,FR,17
+22,Clerc,FR,16
+23,Colin,FR,16
+24,Cohen Rémy et Fils,FR,20
+25,Guillet et Fils,FR,13
+26,Costa,FR,4
+27,Martin,FR,6
+28,Salmon,FR,20
+29,Mendès SA,FR,8
+30,Jacquet,FR,10
+31,Ledoux,FR,8
+32,Fleury Bertin SA,FR,19
+33,Jacques,FR,5
+34,Cohen S.A.S.,FR,15
+35,Bègue,FR,19
+36,Martins,FR,10
+37,Brun SA,FR,3
+38,Grondin David et Fils,FR,16
+39,Boulanger S.A.,FR,8
+40,Adam Bigot et Fils,FR,13
+41,Thibault SARL,FR,9
+42,Lemaire S.A.S.,FR,16
+43,Hebert,FR,4
+44,Chauvin S.A.S.,FR,15
+45,Le Goff S.A.,FR,18
+46,Pinto,FR,5
+47,Gonzalez,FR,19
+48,Rousset,FR,9
+49,Pereira,FR,5
+50,Chevallier Faivre S.A.,FR,3

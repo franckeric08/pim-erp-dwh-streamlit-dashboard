@@ -1,0 +1,201 @@
+customer_id,customer_name,segment,city
+1,Pons Diaz S.A.,Artisans,LévêqueVille
+2,Leblanc,BTP,MorelVille
+3,Barbe SA,Artisans,Lacroix
+4,Lefebvre SARL,Artisans,Mathieu
+5,Jourdan,BTP,Andre
+6,Leroux Voisin S.A.,Industrie,Lacombe-les-Bains
+7,Teixeira Joseph S.A.,Collectivités,Jean
+8,Labbé,Artisans,Laporte
+9,Maillet et Fils,Artisans,Duhamel
+10,Caron Bousquet et Fils,BTP,Guyon
+11,Vaillant et Fils,Industrie,PetitjeanBourg
+12,Diaz,Collectivités,Albert-la-Forêt
+13,Texier,Industrie,Sainte Victoire-sur-Mer
+14,Blanchard,Collectivités,Guérin-sur-Normand
+15,Renaud,Artisans,Sainte JacquelineBourg
+16,Michel,Artisans,Sainte LucasVille
+17,Gimenez,BTP,Gimenez-sur-Buisson
+18,Guyon,BTP,Menard-sur-Rey
+19,Legrand,Industrie,Allain-la-Forêt
+20,Rousset Colas S.A.,Industrie,Merledan
+21,Navarro Carre S.A.S.,Collectivités,Jeandan
+22,Gimenez,BTP,BlanchetBourg
+23,Briand,Artisans,Blanchard
+24,Perrier Lambert SA,BTP,Bertrand
+25,Laroche SA,Industrie,Michaud
+26,Masson Léger et Fils,BTP,Vaillant-sur-Caron
+27,Denis,Artisans,Bodin-sur-Lemoine
+28,Morvan,BTP,Henry
+29,Dijoux S.A.R.L.,Industrie,Salmon-sur-Roux
+30,Mercier S.A.,Artisans,Labbé
+31,Voisin Letellier SA,Collectivités,Raymond
+32,Lecomte Renault et Fils,Collectivités,Teixeira
+33,Royer Seguin S.A.S.,Artisans,Roger
+34,Pierre,Artisans,Rodriguez
+35,Lacombe S.A.R.L.,Artisans,Richard
+36,Caron,Industrie,Prévostnec
+37,Georges,Artisans,Charpentier-sur-Maury
+38,Rossi,Industrie,Alexandre
+39,Renard,Artisans,Arnaud
+40,Vallet,Industrie,Wagner-les-Bains
+41,Jacques S.A.S.,Industrie,Ledoux-les-Bains
+42,Germain,BTP,BarbierBourg
+43,Laine,Collectivités,Sauvage-sur-Chevalier
+44,Gautier,Artisans,Sainte Robertboeuf
+45,Klein,Collectivités,Saint Christelle
+46,Lopes Traore S.A.R.L.,Collectivités,Barbierboeuf
+47,Le Goff,BTP,Da Silva
+48,Marie S.A.S.,Collectivités,Duhamelboeuf
+49,Techer,Collectivités,Thomasdan
+50,Lefort,Artisans,Wagner-sur-Chevalier
+51,Vincent Marin SARL,Industrie,Blancdan
+52,Jacob Carlier S.A.R.L.,Artisans,Garnier-sur-Foucher
+53,Jean et Fils,Artisans,Olivier
+54,Faure,Collectivités,Nguyen
+55,Chevalier,Collectivités,Alexandre-la-Forêt
+56,Martineau SA,Artisans,Bousquet
+57,Letellier Guillou S.A.,Artisans,Marie
+58,Evrard Allard S.A.S.,Collectivités,Saint Océaneboeuf
+59,Lévy Lemaître SA,Industrie,Evrardnec
+60,Clerc Dupuis SA,Industrie,Mary-sur-Mer
+61,Delattre,Artisans,Boulay
+62,Pages Boyer S.A.S.,Industrie,Pierre
+63,Imbert,Artisans,Lévydan
+64,Lefort,BTP,Legendre-sur-Martinez
+65,Germain SARL,Collectivités,Vallée-sur-Nicolas
+66,Mahe SARL,Artisans,Rousseau-sur-Masse
+67,Guilbert S.A.,Artisans,Mace
+68,Thibault,Artisans,Simon
+69,Langlois SARL,Industrie,Saint Henri-les-Bains
+70,Étienne,Artisans,Godard
+71,Morin S.A.,BTP,Étienne
+72,Maillard,Industrie,DiasBourg
+73,Paris,Collectivités,Sainte Williamdan
+74,Hervé,BTP,Tanguy
+75,Perret Brun et Fils,Artisans,Marionboeuf
+76,Laurent,BTP,Parentboeuf
+77,Lacombe,Artisans,Brunel
+78,Charrier,BTP,Lefebvre-sur-Mer
+79,Fernandez,Industrie,Boyer-les-Bains
+80,Dupuis Gomes S.A.R.L.,Artisans,Coulon
+81,Guilbert,Industrie,Gaillard-sur-Mer
+82,Buisson,BTP,Sainte Stéphane
+83,Boulay S.A.,Artisans,Jourdan
+84,Collin,Collectivités,Meunier-sur-Mer
+85,Humbert,Collectivités,Gomezdan
+86,Gomes Garnier SARL,Artisans,Laporteboeuf
+87,Perrin S.A.,BTP,Bourdon
+88,Hamel,Collectivités,Philippedan
+89,Dias,Artisans,MarquesVille
+90,Navarro,Collectivités,Sainte Hélènedan
+91,Marty,Artisans,Marty
+92,Leleu,BTP,Sainte ChristianeBourg
+93,Aubert Jourdan et Fils,BTP,Louisdan
+94,Dupuy Cousin SARL,Industrie,Rossi-sur-Mer
+95,Goncalves et Fils,Collectivités,Costa-la-Forêt
+96,Boulay Chevalier S.A.,Industrie,Michaud
+97,Meunier Perrot et Fils,BTP,JourdanBourg
+98,Voisin Klein S.A.,Artisans,Chauvet
+99,Bigot SA,BTP,Dubois
+100,Muller Voisin S.A.S.,BTP,Charles-sur-Mer
+101,Langlois,Artisans,Verdier
+102,Fernandez,Industrie,Boutinnec
+103,Gonzalez,Collectivités,Bernardboeuf
+104,Baudry,BTP,Saint Laetitia
+105,Pasquier,BTP,Toussaint-la-Forêt
+106,Jourdan,Collectivités,Fontaine
+107,David,BTP,Sainte Odetteboeuf
+108,Roger,Collectivités,Bertin
+109,Labbé SA,Collectivités,Brun
+110,Lemaire Bourdon SA,Collectivités,Brun-sur-Joseph
+111,Techer,Artisans,Lefortdan
+112,Collet,Industrie,Boyer
+113,Clerc,Industrie,De Sousa
+114,Guyot S.A.R.L.,Artisans,Sainte Susan
+115,Barbier Barre S.A.S.,Industrie,Bonneau
+116,Caron,Industrie,GuyonBourg
+117,Maillard,Industrie,Peron-sur-Mer
+118,Charrier SARL,BTP,Duval
+119,De Sousa et Fils,Artisans,Fleury-sur-Cousin
+120,Lopez SARL,Industrie,Blanchard
+121,Barre SARL,Artisans,Meyer
+122,Leclercq et Fils,Industrie,Roux
+123,Rémy S.A.R.L.,Industrie,GonzalezVille
+124,Perrot SARL,Artisans,Sainte Marine
+125,Clément,Collectivités,Saint David
+126,Clerc De Sousa et Fils,Artisans,Laine
+127,Valette S.A.S.,Collectivités,Leduc
+128,Marty,BTP,Regnier
+129,Mahe SARL,Artisans,Benoit
+130,Moulin,Collectivités,Barrenec
+131,Guyon Rousset SARL,Industrie,Didier
+132,Michaud,BTP,Da Silva-sur-Bigot
+133,Vallée,Artisans,Collinboeuf
+134,Laine Robin et Fils,Collectivités,RogerBourg
+135,Letellier,Collectivités,ImbertVille
+136,Jacquot,Artisans,Lacroix-sur-Benoit
+137,Goncalves,Collectivités,Saint Thibault
+138,Collet S.A.S.,Artisans,Lecomtedan
+139,Colas S.A.R.L.,Collectivités,Barre-sur-Mer
+140,Laurent,Industrie,Duvalboeuf
+141,Fouquet Techer S.A.,Artisans,Traore
+142,Joly,Artisans,Bertindan
+143,Faure,BTP,De OliveiraBourg
+144,Gros,Industrie,Sainte SylvieVille
+145,Le Gall et Fils,Artisans,Boucher
+146,Dumont Gilbert SA,Collectivités,Sainte Georgesdan
+147,Mallet,Collectivités,Simon
+148,Gilles Vidal S.A.,Collectivités,Bertin
+149,Guérin,BTP,LecoqVille
+150,Bigot S.A.,Artisans,Saint Adélaïde
+151,Gomes,Collectivités,Charlesnec
+152,Bertin,BTP,Coste
+153,Bousquet,BTP,Chartier
+154,Martel,Artisans,Philippeboeuf
+155,Leconte,Collectivités,Barbe
+156,Ferrand Guérin S.A.,Industrie,Massondan
+157,Blanchard Pages S.A.S.,Collectivités,Saint Michèledan
+158,Mace S.A.R.L.,Industrie,Marchal
+159,Boucher Laine S.A.,Industrie,Charles-sur-Lacroix
+160,Olivier S.A.,Collectivités,RobertBourg
+161,Moreno et Fils,Industrie,Saint Vincent
+162,Lefort S.A.S.,BTP,Saint Michelle
+163,Techer,BTP,Parent
+164,Garnier,Collectivités,Descamps
+165,Marques,Artisans,Joseph
+166,Delahaye S.A.S.,BTP,Valentin
+167,Salmon,Collectivités,Mahe
+168,Chauvin,Industrie,Diallo
+169,Turpin,BTP,Saint Matthieu
+170,Jacques De Sousa S.A.R.L.,Collectivités,Sainte Henri
+171,Maillot S.A.,Collectivités,Huetnec
+172,Joubert,Artisans,Blanc
+173,Berger S.A.,Industrie,Perret
+174,Julien Roussel S.A.S.,Industrie,Delattre-sur-Roux
+175,Samson,Industrie,Lebretonnec
+176,Fabre,Collectivités,Devaux
+177,Fabre Vallet S.A.S.,Collectivités,Sainte Franck-les-Bains
+178,Vaillant,Industrie,Sainte Cécile
+179,Girard Lebrun S.A.R.L.,Collectivités,Sainte Agnès-la-Forêt
+180,Legrand,Artisans,Bouchet
+181,Lebon Lenoir S.A.S.,Collectivités,Sainte Margot-la-Forêt
+182,Ramos S.A.,Collectivités,Imbertdan
+183,Valette S.A.,BTP,Sainte SuzanneVille
+184,Lefebvre,Artisans,Delattre
+185,Rousseau S.A.S.,BTP,BlinBourg
+186,Barre,Industrie,Marionboeuf
+187,Tanguy Duval SARL,Industrie,Navarrodan
+188,Lopes Germain S.A.,Artisans,Prévost
+189,Fabre Poirier S.A.R.L.,Collectivités,Lejeuneboeuf
+190,Turpin Coste et Fils,BTP,Perret
+191,Barbe S.A.,Artisans,Dupré
+192,Petitjean S.A.R.L.,BTP,Sainte Audreydan
+193,Letellier,Collectivités,Sainte Sabine
+194,Adam,BTP,Saint Brigitte-les-Bains
+195,Carre,Artisans,Vaillant
+196,Diallo,Collectivités,Macenec
+197,Briand SA,Collectivités,Garciadan
+198,Guillon,Artisans,Jourdan-sur-Jacob
+199,Bertrand,Collectivités,Guibertboeuf
+200,Roger,BTP,Lenoir
