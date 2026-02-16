@@ -9,6 +9,34 @@ import streamlit as st
 DB_PATH = "db/warehouse.db"
 RAW_PRICES_CSV = "data/raw/erp_prices.csv"  # pour onglet fournisseurs (mapping product -> supplier)
 
+import os
+import runpy
+import streamlit as st
+
+st.set_page_config(page_title="PIM → ERP → DWH → BI", layout="wide")
+
+
+
+def ensure_db():
+    # Si la DB n'existe pas (Streamlit Cloud), on génère données + DWH
+    if os.path.exists(DB_PATH):
+        return
+
+    st.warning("Base SQLite absente — génération automatique des données et du DWH…")
+    os.makedirs("data/raw", exist_ok=True)
+    os.makedirs("db", exist_ok=True)
+
+    with st.spinner("Génération des données (PIM / ERP)…"):
+        runpy.run_path("src/generate/gen_data.py")
+
+    with st.spinner("Création du DWH SQLite (schéma étoile) + chargement…"):
+        runpy.run_path("src/etl/run_etl.py")
+
+    st.success("✅ Base créée, chargement terminé.")
+
+
+ensure_db()
+
 
 # -----------------------------
 # Helpers
